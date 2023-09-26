@@ -293,6 +293,7 @@ section {
   bottom: 2.5rem;
 }
 
+
 .details-container {
   justify-content: center;
   padding: 1.5rem;
@@ -462,6 +463,9 @@ footer p {
   text-align: center;
 }
 
-
+.padd{
+  padding-top: 200px;
+ 
+}
 
 
